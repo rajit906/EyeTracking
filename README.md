@@ -10,3 +10,5 @@ TrackandTrain.py takes the model parameters and trains it further to fit labels
 
 GetEyes.py opens webcam and moves cursor around
 
+Note: I messed up some of the number of perceptrons before pushing, that might need some tweaking, otherwise its ready to go!
+
