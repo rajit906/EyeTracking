@@ -1,10 +1,9 @@
 # EyeTracking
 The model is based on CNNs and essentially predicts where on the screen youre looking at on the screen and moves the cursor
 
-'''bash
+```bash
 python -i <file_name>
-'''
-
+```
 
 Ree.py detects pupil
 
